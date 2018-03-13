@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="compLtnCapD" format="1">
+  <advance width="531"/>
+  <outline>
+    <contour>
+      <point x="414" y="266" type="qcurve" smooth="yes"/>
+      <point x="414" y="366"/>
+      <point x="314" y="468"/>
+      <point x="226" y="468" type="qcurve" smooth="yes"/>
+      <point x="134" y="468" type="line"/>
+      <point x="134" y="64" type="line"/>
+      <point x="226" y="64" type="line" smooth="yes"/>
+      <point x="314" y="64"/>
+      <point x="414" y="169"/>
+    </contour>
+    <contour>
+      <point x="486" y="266" type="qcurve" smooth="yes"/>
+      <point x="486" y="218"/>
+      <point x="461" y="123"/>
+      <point x="401" y="47"/>
+      <point x="300" y="0"/>
+      <point x="225" y="0" type="qcurve" smooth="yes"/>
+      <point x="59" y="0" type="line"/>
+      <point x="59" y="533" type="line"/>
+      <point x="225" y="533" type="line" smooth="yes"/>
+      <point x="300" y="533"/>
+      <point x="401" y="488"/>
+      <point x="461" y="413"/>
+      <point x="486" y="317"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kgreenlandic" format="1">
+  <advance width="1080"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="1080" y="1077" type="move" name="Anchor-4"/>
+    </contour>
+    <contour>
+      <point x="572" y="-100" type="move" name="Anchor-3"/>
+    </contour>
+    <contour>
+      <point x="572" y="-100" type="move" name="Anchor-2"/>
+    </contour>
+    <contour>
+      <point x="572" y="-100" type="move" name="Anchor-1"/>
+    </contour>
+    <contour>
+      <point x="572" y="1100" type="move" name="Anchor-0"/>
+    </contour>
+    <contour>
+      <point x="0" y="949" type="line"/>
+      <point x="1080" y="949" type="line"/>
+      <point x="1080" y="933" type="line"/>
+      <point x="0" y="933" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="1470" type="line"/>
+      <point x="1080" y="1470" type="line"/>
+      <point x="1080" y="1441" type="line"/>
+      <point x="0" y="1441" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="19" type="line"/>
+      <point x="1080" y="19" type="line"/>
+      <point x="1080" y="-10" type="line"/>
+      <point x="0" y="-10" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-454" type="line"/>
+      <point x="1080" y="-454" type="line"/>
+      <point x="1080" y="-483" type="line"/>
+      <point x="0" y="-483" type="line"/>
+    </contour>
+    <component base="uni043A"/>
+  </outline>
+</glyph>

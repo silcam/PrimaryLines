@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni00A0" format="1">
+  <advance width="550"/>
+  <unicode hex="00A0"/>
+  <outline>
+    <contour>
+      <point x="1024" y="1000" type="move" name="Anchor-4"/>
+    </contour>
+    <contour>
+      <point x="562" y="0" type="move" name="Anchor-3"/>
+    </contour>
+    <contour>
+      <point x="512" y="0" type="move" name="Anchor-2"/>
+    </contour>
+    <contour>
+      <point x="512" y="-100" type="move" name="Anchor-1"/>
+    </contour>
+    <contour>
+      <point x="512" y="1500" type="move" name="Anchor-0"/>
+    </contour>
+    <contour>
+      <point x="0" y="949" type="line"/>
+      <point x="550" y="949" type="line"/>
+      <point x="550" y="933" type="line"/>
+      <point x="0" y="933" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="1470" type="line"/>
+      <point x="550" y="1470" type="line"/>
+      <point x="550" y="1441" type="line"/>
+      <point x="0" y="1441" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="19" type="line"/>
+      <point x="550" y="19" type="line"/>
+      <point x="550" y="-10" type="line"/>
+      <point x="0" y="-10" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-454" type="line"/>
+      <point x="550" y="-454" type="line"/>
+      <point x="550" y="-483" type="line"/>
+      <point x="0" y="-483" type="line"/>
+    </contour>
+  </outline>
+</glyph>

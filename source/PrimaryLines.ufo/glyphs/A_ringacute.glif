@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aringacute" format="1">
+  <advance width="1395"/>
+  <unicode hex="01FA"/>
+  <outline>
+    <contour>
+      <point x="1395" y="1077" type="move" name="Anchor-4"/>
+    </contour>
+    <contour>
+      <point x="1450" y="0" type="move" name="Anchor-3"/>
+    </contour>
+    <contour>
+      <point x="707" y="0" type="move" name="Anchor-2"/>
+    </contour>
+    <contour>
+      <point x="687" y="-100" type="move" name="Anchor-1"/>
+    </contour>
+    <contour>
+      <point x="689" y="2600" type="move" name="Anchor-0"/>
+    </contour>
+    <component base="A"/>
+    <component base="ring" xOffset="474" yOffset="430"/>
+    <component base="acutecomb" xOffset="1259" yOffset="965"/>
+  </outline>
+</glyph>

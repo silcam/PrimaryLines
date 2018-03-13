@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_i.sc" format="1">
+  <advance width="1995"/>
+  <outline>
+    <contour>
+      <point x="1985" y="1016" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="1707" y="8" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="1527" y="8" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="1527" y="-76" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="1527" y="1293" type="move" name="Anchor-5"/>
+    </contour>
+    <component base="f.sc"/>
+    <component base="i.sc" xOffset="1078"/>
+  </outline>
+</glyph>

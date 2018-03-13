@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0328.RetroHook" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-570" y="-500" type="move" name="Anchor-11"/>
+    </contour>
+    <contour>
+      <point x="-570" y="-100" type="move" name="_Anchor-11"/>
+    </contour>
+    <contour>
+      <point x="-570" y="-100" type="move" name="_Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="-570" y="-100" type="move" name="_Anchor-1"/>
+    </contour>
+    <contour>
+      <point x="-243" y="-415" type="line"/>
+      <point x="-283" y="-444"/>
+      <point x="-381" y="-470"/>
+      <point x="-433" y="-470" type="qcurve" smooth="yes"/>
+      <point x="-478" y="-470"/>
+      <point x="-553" y="-435"/>
+      <point x="-608" y="-370"/>
+      <point x="-638" y="-277"/>
+      <point x="-638" y="-220" type="qcurve" smooth="yes"/>
+      <point x="-638" y="40" type="line"/>
+      <point x="-503" y="40" type="line"/>
+      <point x="-503" y="-210" type="line" smooth="yes"/>
+      <point x="-503" y="-238"/>
+      <point x="-486" y="-284"/>
+      <point x="-458" y="-317"/>
+      <point x="-419" y="-335"/>
+      <point x="-398" y="-335" type="qcurve" smooth="yes"/>
+      <point x="-356" y="-335"/>
+      <point x="-290" y="-311"/>
+      <point x="-258" y="-290" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

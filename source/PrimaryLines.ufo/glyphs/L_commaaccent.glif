@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcommaaccent" format="1">
+  <advance width="1080"/>
+  <unicode hex="013B"/>
+  <outline>
+    <contour>
+      <point x="540" y="1200" type="move" name="Anchor-4"/>
+    </contour>
+    <contour>
+      <point x="592" y="-500" type="move" name="Anchor-3"/>
+    </contour>
+    <contour>
+      <point x="592" y="0" type="move" name="Anchor-2"/>
+    </contour>
+    <contour>
+      <point x="592" y="-500" type="move" name="Anchor-1"/>
+    </contour>
+    <contour>
+      <point x="592" y="1530" type="move" name="Anchor-0"/>
+    </contour>
+    <component base="L"/>
+    <component base="uni0326" xOffset="1159"/>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF195" format="1">
+  <advance width="580"/>
+  <unicode hex="F195"/>
+  <outline>
+    <contour>
+      <point x="0" y="1600" type="line"/>
+      <point x="420" y="1170" type="line"/>
+      <point x="580" y="1170" type="line"/>
+      <point x="230" y="1600" type="line"/>
+    </contour>
+    <contour>
+      <point x="-30" y="1630" type="line"/>
+      <point x="610" y="1630" type="line"/>
+      <point x="610" y="1140" type="line"/>
+      <point x="-30" y="1140" type="line"/>
+    </contour>
+  </outline>
+</glyph>

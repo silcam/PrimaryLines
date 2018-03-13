@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aeacute.2StorySItal" format="1">
+  <advance width="1745"/>
+  <outline>
+    <contour>
+      <point x="1745" y="1000" type="move" name="Anchor-4"/>
+    </contour>
+    <contour>
+      <point x="1465" y="0" type="move" name="Anchor-3"/>
+    </contour>
+    <contour>
+      <point x="866" y="0" type="move" name="Anchor-2"/>
+    </contour>
+    <contour>
+      <point x="865" y="-100" type="move" name="Anchor-1"/>
+    </contour>
+    <contour>
+      <point x="865" y="1635" type="move" name="Anchor-0"/>
+    </contour>
+    <component base="ae.2StorySItal"/>
+    <component base="acutecomb" xOffset="1435"/>
+  </outline>
+</glyph>

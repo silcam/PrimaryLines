@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E37.TailL" format="1">
+  <advance width="660"/>
+  <outline>
+    <contour>
+      <point x="554" y="1000" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="400" y="-500" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="400" y="0" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="400" y="-500" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="283" y="1635" type="move" name="Anchor-5"/>
+    </contour>
+    <component base="l.TailL"/>
+    <component base="dotbelowcomb" xOffset="970"/>
+  </outline>
+</glyph>

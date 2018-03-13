@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2084.Open" format="1">
+  <advance width="840"/>
+  <outline>
+    <contour>
+      <point x="652" y="83" type="line"/>
+      <point x="795" y="83" type="line"/>
+      <point x="795" y="-17" type="line"/>
+      <point x="652" y="-17" type="line"/>
+      <point x="652" y="-50"/>
+      <point x="653" y="-89" type="qcurve" smooth="yes"/>
+      <point x="656" y="-167" type="line" smooth="yes"/>
+      <point x="658" y="-206"/>
+      <point x="663" y="-276"/>
+      <point x="666" y="-300" type="qcurve"/>
+      <point x="523" y="-300" type="line"/>
+      <point x="523" y="-17" type="line"/>
+      <point x="99" y="-17" type="line"/>
+      <point x="169" y="649" type="line"/>
+      <point x="295" y="649" type="line"/>
+      <point x="232" y="83" type="line"/>
+      <point x="523" y="83" type="line"/>
+      <point x="523" y="467" type="line"/>
+      <point x="652" y="467" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2063.ShowInv" format="1">
+  <advance width="2400"/>
+  <outline>
+    <component base="compBoxDotted"/>
+    <component base="compComma" xOffset="1098" yOffset="902"/>
+  </outline>
+</glyph>

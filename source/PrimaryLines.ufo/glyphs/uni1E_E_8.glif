@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EE8" format="1">
+  <advance width="1645"/>
+  <unicode hex="1EE8"/>
+  <outline>
+    <contour>
+      <point x="1645" y="1077" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="707" y="-100" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="707" y="-100" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="707" y="-100" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="707" y="2065" type="move" name="Anchor-5"/>
+    </contour>
+    <contour>
+      <point x="0" y="949" type="line"/>
+      <point x="1645" y="949" type="line"/>
+      <point x="1645" y="933" type="line"/>
+      <point x="0" y="933" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="1470" type="line"/>
+      <point x="1645" y="1470" type="line"/>
+      <point x="1645" y="1441" type="line"/>
+      <point x="0" y="1441" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="19" type="line"/>
+      <point x="1645" y="19" type="line"/>
+      <point x="1645" y="-10" type="line"/>
+      <point x="0" y="-10" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-454" type="line"/>
+      <point x="1645" y="-454" type="line"/>
+      <point x="1645" y="-483" type="line"/>
+      <point x="0" y="-483" type="line"/>
+    </contour>
+    <component base="Uhorn"/>
+    <component base="acutecomb" xOffset="1277" yOffset="430"/>
+  </outline>
+</glyph>

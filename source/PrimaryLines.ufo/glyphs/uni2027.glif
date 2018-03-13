@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2027" format="1">
+  <advance width="679"/>
+  <unicode hex="2027"/>
+  <outline>
+    <contour>
+      <point x="0" y="949" type="line"/>
+      <point x="679" y="949" type="line"/>
+      <point x="679" y="933" type="line"/>
+      <point x="0" y="933" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="1470" type="line"/>
+      <point x="679" y="1470" type="line"/>
+      <point x="679" y="1441" type="line"/>
+      <point x="0" y="1441" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="19" type="line"/>
+      <point x="679" y="19" type="line"/>
+      <point x="679" y="-10" type="line"/>
+      <point x="0" y="-10" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-454" type="line"/>
+      <point x="679" y="-454" type="line"/>
+      <point x="679" y="-483" type="line"/>
+      <point x="0" y="-483" type="line"/>
+    </contour>
+    <component base="periodcentered"/>
+  </outline>
+</glyph>

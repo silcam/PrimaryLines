@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat.BarBowl.sc" format="1">
+  <advance width="1340"/>
+  <outline>
+    <contour>
+      <point x="1340" y="1077" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="668" y="-76" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="668" y="-76" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="668" y="-76" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="668" y="1293" type="move" name="Anchor-5"/>
+    </contour>
+    <component base="dcroat.sc"/>
+  </outline>
+</glyph>

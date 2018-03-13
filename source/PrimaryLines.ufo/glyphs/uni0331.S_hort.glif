@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0331.Short" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-460" y="-500" type="move" name="Anchor-11"/>
+    </contour>
+    <contour>
+      <point x="-457" y="-100" type="move" name="_Anchor-11"/>
+    </contour>
+    <contour>
+      <point x="-457" y="-100" type="move" name="_Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="-457" y="-100" type="move" name="_Anchor-1"/>
+    </contour>
+    <contour>
+      <point x="-725" y="-170" type="line"/>
+      <point x="-195" y="-170" type="line"/>
+      <point x="-195" y="-320" type="line"/>
+      <point x="-725" y="-320" type="line"/>
+    </contour>
+  </outline>
+</glyph>

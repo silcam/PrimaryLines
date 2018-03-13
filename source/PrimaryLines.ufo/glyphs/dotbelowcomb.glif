@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelowcomb" format="1">
+  <advance width="0"/>
+  <unicode hex="0323"/>
+  <outline>
+    <contour>
+      <point x="-570" y="-500" type="move" name="Anchor-11"/>
+    </contour>
+    <contour>
+      <point x="-570" y="-100" type="move" name="_Anchor-11"/>
+    </contour>
+    <contour>
+      <point x="-570" y="-100" type="move" name="_Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="-570" y="-100" type="move" name="_Anchor-1"/>
+    </contour>
+    <contour>
+      <point x="-705" y="-310" type="qcurve" smooth="yes"/>
+      <point x="-705" y="-282"/>
+      <point x="-684" y="-233"/>
+      <point x="-647" y="-196"/>
+      <point x="-598" y="-175"/>
+      <point x="-570" y="-175" type="qcurve" smooth="yes"/>
+      <point x="-542" y="-175"/>
+      <point x="-493" y="-196"/>
+      <point x="-456" y="-233"/>
+      <point x="-435" y="-282"/>
+      <point x="-435" y="-310" type="qcurve" smooth="yes"/>
+      <point x="-435" y="-338"/>
+      <point x="-456" y="-387"/>
+      <point x="-493" y="-424"/>
+      <point x="-542" y="-445"/>
+      <point x="-570" y="-445" type="qcurve" smooth="yes"/>
+      <point x="-598" y="-445"/>
+      <point x="-647" y="-424"/>
+      <point x="-684" y="-387"/>
+      <point x="-705" y="-338"/>
+    </contour>
+  </outline>
+</glyph>

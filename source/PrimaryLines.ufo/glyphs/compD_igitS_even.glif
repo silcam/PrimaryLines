@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="compDigitSeven" format="1">
+  <advance width="412"/>
+  <outline>
+    <contour>
+      <point x="197" y="0" type="line"/>
+      <point x="116" y="0" type="line"/>
+      <point x="304" y="474" type="line"/>
+      <point x="42" y="474" type="line"/>
+      <point x="42" y="533" type="line"/>
+      <point x="370" y="533" type="line"/>
+      <point x="370" y="458" type="line"/>
+    </contour>
+  </outline>
+</glyph>

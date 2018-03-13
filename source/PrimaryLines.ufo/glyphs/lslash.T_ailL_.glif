@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash.TailL" format="1">
+  <advance width="860"/>
+  <outline>
+    <contour>
+      <point x="860" y="1077" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="515" y="-100" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="515" y="-100" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="515" y="-100" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="430" y="1635" type="move" name="Anchor-5"/>
+    </contour>
+    <contour>
+      <point x="515" y="755" type="line"/>
+      <point x="515" y="385" type="line" smooth="yes"/>
+      <point x="515" y="309"/>
+      <point x="530" y="214"/>
+      <point x="560" y="160"/>
+      <point x="605" y="140"/>
+      <point x="635" y="140" type="qcurve" smooth="yes"/>
+      <point x="664" y="140"/>
+      <point x="716" y="151"/>
+      <point x="745" y="165" type="qcurve"/>
+      <point x="745" y="10" type="line"/>
+      <point x="704" y="-10"/>
+      <point x="623" y="-25"/>
+      <point x="570" y="-25" type="qcurve" smooth="yes"/>
+      <point x="524" y="-25"/>
+      <point x="438" y="2"/>
+      <point x="371" y="70"/>
+      <point x="330" y="183"/>
+      <point x="330" y="270" type="qcurve" smooth="yes"/>
+      <point x="330" y="627" type="line"/>
+      <point x="160" y="510" type="line"/>
+      <point x="100" y="655" type="line"/>
+      <point x="330" y="814" type="line"/>
+      <point x="330" y="1130" type="line" smooth="yes"/>
+      <point x="330" y="1277"/>
+      <point x="320" y="1513"/>
+      <point x="310" y="1600" type="qcurve"/>
+      <point x="515" y="1600" type="line"/>
+      <point x="515" y="942" type="line"/>
+      <point x="700" y="1070" type="line"/>
+      <point x="760" y="925" type="line"/>
+    </contour>
+  </outline>
+</glyph>

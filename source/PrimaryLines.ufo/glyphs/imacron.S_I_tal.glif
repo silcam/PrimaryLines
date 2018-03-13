@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="imacron.SItal" format="1">
+  <advance width="565"/>
+  <outline>
+    <contour>
+      <point x="550" y="1000" type="move" name="Anchor-4"/>
+    </contour>
+    <contour>
+      <point x="520" y="0" type="move" name="Anchor-3"/>
+    </contour>
+    <contour>
+      <point x="285" y="0" type="move" name="Anchor-2"/>
+    </contour>
+    <contour>
+      <point x="285" y="-100" type="move" name="Anchor-1"/>
+    </contour>
+    <contour>
+      <point x="285" y="1450" type="move" name="Anchor-0"/>
+    </contour>
+    <component base="dotlessi.SItal"/>
+    <component base="uni0304.Short" xOffset="745"/>
+  </outline>
+</glyph>

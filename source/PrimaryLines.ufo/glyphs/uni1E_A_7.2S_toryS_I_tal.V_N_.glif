@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EA7.2StorySItal.VN" format="1">
+  <advance width="1120"/>
+  <outline>
+    <component base="a.2StorySItal"/>
+    <component base="uni0302_gravecomb.VN" xOffset="1110"/>
+  </outline>
+</glyph>

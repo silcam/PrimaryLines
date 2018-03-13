@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0433.Serb" format="1">
+  <advance width="995"/>
+  <outline>
+    <contour>
+      <point x="995" y="1077" type="move" name="Anchor-4"/>
+    </contour>
+    <contour>
+      <point x="441" y="-100" type="move" name="Anchor-3"/>
+    </contour>
+    <contour>
+      <point x="441" y="-100" type="move" name="Anchor-2"/>
+    </contour>
+    <contour>
+      <point x="441" y="-100" type="move" name="Anchor-1"/>
+    </contour>
+    <contour>
+      <point x="538" y="1100" type="move" name="Anchor-0"/>
+    </contour>
+    <contour>
+      <point x="150" y="0" type="line"/>
+      <point x="158" y="42"/>
+      <point x="160" y="201"/>
+      <point x="160" y="305" type="qcurve" smooth="yes"/>
+      <point x="160" y="1020" type="line"/>
+      <point x="920" y="1020" type="line"/>
+      <point x="920" y="865" type="line"/>
+      <point x="345" y="865" type="line"/>
+      <point x="345" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

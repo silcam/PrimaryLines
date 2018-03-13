@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04C9" format="1">
+  <advance width="1555"/>
+  <unicode hex="04C9"/>
+  <outline>
+    <contour>
+      <point x="1555" y="1077" type="move" name="Anchor-4"/>
+    </contour>
+    <contour>
+      <point x="725" y="-100" type="move" name="Anchor-3"/>
+    </contour>
+    <contour>
+      <point x="725" y="-100" type="move" name="Anchor-2"/>
+    </contour>
+    <contour>
+      <point x="725" y="-100" type="move" name="Anchor-1"/>
+    </contour>
+    <contour>
+      <point x="725" y="1530" type="move" name="Anchor-0"/>
+    </contour>
+    <contour>
+      <point x="0" y="949" type="line"/>
+      <point x="1555" y="949" type="line"/>
+      <point x="1555" y="933" type="line"/>
+      <point x="0" y="933" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="1470" type="line"/>
+      <point x="1555" y="1470" type="line"/>
+      <point x="1555" y="1441" type="line"/>
+      <point x="0" y="1441" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="19" type="line"/>
+      <point x="1555" y="19" type="line"/>
+      <point x="1555" y="-10" type="line"/>
+      <point x="0" y="-10" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-454" type="line"/>
+      <point x="1555" y="-454" type="line"/>
+      <point x="1555" y="-483" type="line"/>
+      <point x="0" y="-483" type="line"/>
+    </contour>
+    <contour>
+      <point x="1285" y="165" type="line"/>
+      <point x="1465" y="165" type="line"/>
+      <point x="1465" y="0" type="line"/>
+      <point x="1205" y="-460" type="line"/>
+      <point x="1050" y="-460" type="line"/>
+      <point x="1260" y="0" type="line"/>
+      <point x="1095" y="0" type="line"/>
+      <point x="1095" y="675" type="line"/>
+      <point x="365" y="675" type="line"/>
+      <point x="365" y="0" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="171" y="60"/>
+      <point x="175" y="287"/>
+      <point x="175" y="435" type="qcurve" smooth="yes"/>
+      <point x="175" y="1025" type="line" smooth="yes"/>
+      <point x="175" y="1173"/>
+      <point x="171" y="1400"/>
+      <point x="160" y="1460" type="qcurve"/>
+      <point x="365" y="1460" type="line"/>
+      <point x="365" y="835" type="line"/>
+      <point x="1095" y="835" type="line"/>
+      <point x="1095" y="1460" type="line"/>
+      <point x="1300" y="1460" type="line"/>
+      <point x="1289" y="1400"/>
+      <point x="1285" y="1173"/>
+      <point x="1285" y="1025" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

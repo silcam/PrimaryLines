@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04E1.RevSigmaStyle.sc" format="1">
+  <advance width="1152"/>
+  <outline>
+    <contour>
+      <point x="1152" y="1077" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="567" y="-76" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="567" y="-76" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="567" y="-76" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="567" y="1293" type="move" name="Anchor-5"/>
+    </contour>
+    <component base="uni0292.RevSigmaStyle.sc"/>
+  </outline>
+</glyph>

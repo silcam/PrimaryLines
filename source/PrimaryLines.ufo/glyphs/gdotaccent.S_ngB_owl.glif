@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gdotaccent.SngBowl" format="1">
+  <advance width="1125"/>
+  <unicode hex="0121"/>
+  <outline>
+    <contour>
+      <point x="1125" y="1000" type="move" name="Anchor-4"/>
+    </contour>
+    <contour>
+      <point x="555" y="-500" type="move" name="Anchor-3"/>
+    </contour>
+    <contour>
+      <point x="555" y="-432" type="move" name="Anchor-2"/>
+    </contour>
+    <contour>
+      <point x="555" y="-500" type="move" name="Anchor-1"/>
+    </contour>
+    <contour>
+      <point x="595" y="1505" type="move" name="Anchor-0"/>
+    </contour>
+    <component base="g.SngBowl"/>
+    <component base="dotaccent" xOffset="460"/>
+  </outline>
+</glyph>

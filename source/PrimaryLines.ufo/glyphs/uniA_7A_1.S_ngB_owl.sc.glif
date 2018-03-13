@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA7A1.SngBowl.sc" format="1">
+  <advance width="1354"/>
+  <outline>
+    <contour>
+      <point x="1354" y="1077" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="709" y="-76" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="709" y="-76" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="709" y="-76" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="709" y="1293" type="move" name="Anchor-5"/>
+    </contour>
+    <component base="uniA7A1.sc"/>
+  </outline>
+</glyph>

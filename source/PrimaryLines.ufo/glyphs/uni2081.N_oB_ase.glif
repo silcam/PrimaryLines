@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2081.NoBase" format="1">
+  <advance width="840"/>
+  <outline>
+    <contour>
+      <point x="523" y="9" type="line" smooth="yes"/>
+      <point x="523" y="-22"/>
+      <point x="525" y="-107"/>
+      <point x="529" y="-194"/>
+      <point x="533" y="-273"/>
+      <point x="537" y="-300" type="qcurve"/>
+      <point x="390" y="-300" type="line"/>
+      <point x="390" y="519" type="line"/>
+      <point x="187" y="399" type="line"/>
+      <point x="169" y="516" type="line"/>
+      <point x="390" y="649" type="line"/>
+      <point x="523" y="649" type="line"/>
+    </contour>
+  </outline>
+</glyph>

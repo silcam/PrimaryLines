@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron.Caron" format="1">
+  <advance width="835"/>
+  <outline>
+    <contour>
+      <point x="835" y="1000" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="475" y="-100" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="475" y="0" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="475" y="-100" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="325" y="1895" type="move" name="Anchor-5"/>
+    </contour>
+    <component base="t"/>
+    <component base="uni030C" xOffset="895" yOffset="260"/>
+  </outline>
+</glyph>

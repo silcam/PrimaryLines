@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Egrave" format="1">
+  <advance width="1160"/>
+  <unicode hex="00C8"/>
+  <outline>
+    <contour>
+      <point x="1160" y="1200" type="move" name="Anchor-4"/>
+    </contour>
+    <contour>
+      <point x="917" y="0" type="move" name="Anchor-3"/>
+    </contour>
+    <contour>
+      <point x="600" y="0" type="move" name="Anchor-2"/>
+    </contour>
+    <contour>
+      <point x="600" y="-100" type="move" name="Anchor-1"/>
+    </contour>
+    <contour>
+      <point x="600" y="2065" type="move" name="Anchor-0"/>
+    </contour>
+    <component base="E"/>
+    <component base="gravecomb" xOffset="1150" yOffset="430"/>
+  </outline>
+</glyph>

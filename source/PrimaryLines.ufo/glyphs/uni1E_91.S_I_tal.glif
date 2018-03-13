@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E91.SItal" format="1">
+  <advance width="1040"/>
+  <outline>
+    <contour>
+      <point x="1040" y="1077" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="525" y="-100" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="525" y="0" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="525" y="-100" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="525" y="1635" type="move" name="Anchor-5"/>
+    </contour>
+    <component base="z.SItal"/>
+    <component base="uni0302" xOffset="1095"/>
+  </outline>
+</glyph>

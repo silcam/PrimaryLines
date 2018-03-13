@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA713.no" format="1">
+  <advance width="859"/>
+  <outline>
+    <contour>
+      <point x="659" y="1164" type="move" name="Cursive-12"/>
+    </contour>
+    <contour>
+      <point x="181" y="1103" type="line" smooth="yes"/>
+      <point x="156" y="1103"/>
+      <point x="121" y="1138"/>
+      <point x="121" y="1163" type="qcurve" smooth="yes"/>
+      <point x="121" y="1188"/>
+      <point x="156" y="1223"/>
+      <point x="181" y="1223" type="qcurve" smooth="yes"/>
+      <point x="659" y="1223" type="line" smooth="yes"/>
+      <point x="684" y="1223"/>
+      <point x="719" y="1188"/>
+      <point x="719" y="1163" type="qcurve" smooth="yes"/>
+      <point x="719" y="1138"/>
+      <point x="684" y="1103"/>
+      <point x="659" y="1103" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="compTnLtrSeg11" format="1">
+  <advance width="480"/>
+  <outline>
+    <contour>
+      <point x="1" y="-25" type="line" smooth="yes"/>
+      <point x="-24" y="-25"/>
+      <point x="-59" y="10"/>
+      <point x="-59" y="35" type="qcurve" smooth="yes"/>
+      <point x="-59" y="60"/>
+      <point x="-24" y="95"/>
+      <point x="1" y="95" type="qcurve" smooth="yes"/>
+      <point x="479" y="95" type="line" smooth="yes"/>
+      <point x="504" y="95"/>
+      <point x="539" y="60"/>
+      <point x="539" y="35" type="qcurve" smooth="yes"/>
+      <point x="539" y="10"/>
+      <point x="504" y="-25"/>
+      <point x="479" y="-25" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

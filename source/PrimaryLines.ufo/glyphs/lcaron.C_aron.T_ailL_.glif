@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron.Caron.TailL" format="1">
+  <advance width="660"/>
+  <outline>
+    <contour>
+      <point x="554" y="1000" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="400" y="-100" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="400" y="0" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="400" y="-100" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="283" y="2170" type="move" name="Anchor-5"/>
+    </contour>
+    <component base="l.TailL"/>
+    <component base="uni030C" xOffset="853" yOffset="535"/>
+  </outline>
+</glyph>

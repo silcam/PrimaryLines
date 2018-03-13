@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0328.Lrg" format="1">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="500" y="0" type="move" name="_Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="500" y="0" type="move" name="_Anchor-3"/>
+    </contour>
+    <contour>
+      <point x="380" y="2" type="line"/>
+      <point x="283" y="-59"/>
+      <point x="175" y="-179"/>
+      <point x="175" y="-245" type="qcurve" smooth="yes"/>
+      <point x="175" y="-316"/>
+      <point x="256" y="-395"/>
+      <point x="325" y="-395" type="qcurve" smooth="yes"/>
+      <point x="345" y="-395"/>
+      <point x="398" y="-381"/>
+      <point x="453" y="-355"/>
+      <point x="503" y="-321"/>
+      <point x="520" y="-300" type="qcurve"/>
+      <point x="560" y="-425" type="line"/>
+      <point x="505" y="-480"/>
+      <point x="370" y="-540"/>
+      <point x="300" y="-540" type="qcurve" smooth="yes"/>
+      <point x="243" y="-540"/>
+      <point x="135" y="-501"/>
+      <point x="51" y="-432"/>
+      <point x="0" y="-336"/>
+      <point x="0" y="-280" type="qcurve" smooth="yes"/>
+      <point x="0" y="-182"/>
+      <point x="112" y="-37"/>
+      <point x="210" y="2" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_i.TailI" format="1">
+  <advance width="1305"/>
+  <outline>
+    <contour>
+      <point x="1215" y="1000" type="move" name="Anchor-4"/>
+    </contour>
+    <contour>
+      <point x="1060" y="-100" type="move" name="Anchor-3"/>
+    </contour>
+    <contour>
+      <point x="1060" y="-100" type="move" name="Anchor-2"/>
+    </contour>
+    <contour>
+      <point x="1060" y="-100" type="move" name="Anchor-1"/>
+    </contour>
+    <contour>
+      <point x="930" y="1635" type="move" name="Anchor-0"/>
+    </contour>
+    <component base="fi.TailI"/>
+  </outline>
+</glyph>

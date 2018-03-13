@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_i.SItal" format="1">
+  <advance width="1315"/>
+  <outline>
+    <contour>
+      <point x="1315" y="1000" type="move" name="Anchor-4"/>
+    </contour>
+    <contour>
+      <point x="1035" y="-100" type="move" name="Anchor-3"/>
+    </contour>
+    <contour>
+      <point x="1035" y="-100" type="move" name="Anchor-2"/>
+    </contour>
+    <contour>
+      <point x="1035" y="-100" type="move" name="Anchor-1"/>
+    </contour>
+    <contour>
+      <point x="1032" y="1100" type="move" name="Anchor-0"/>
+    </contour>
+    <component base="f.SItal"/>
+    <component base="i.SItal" xOffset="750"/>
+  </outline>
+</glyph>

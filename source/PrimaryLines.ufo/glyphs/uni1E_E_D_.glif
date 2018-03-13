@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EED" format="1">
+  <advance width="1415"/>
+  <unicode hex="1EED"/>
+  <outline>
+    <contour>
+      <point x="1415" y="1077" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="589" y="-100" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="589" y="-100" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="589" y="-100" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="589" y="1635" type="move" name="Anchor-5"/>
+    </contour>
+    <contour>
+      <point x="0" y="949" type="line"/>
+      <point x="1415" y="949" type="line"/>
+      <point x="1415" y="933" type="line"/>
+      <point x="0" y="933" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="1470" type="line"/>
+      <point x="1415" y="1470" type="line"/>
+      <point x="1415" y="1441" type="line"/>
+      <point x="0" y="1441" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="19" type="line"/>
+      <point x="1415" y="19" type="line"/>
+      <point x="1415" y="-10" type="line"/>
+      <point x="0" y="-10" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-454" type="line"/>
+      <point x="1415" y="-454" type="line"/>
+      <point x="1415" y="-483" type="line"/>
+      <point x="0" y="-483" type="line"/>
+    </contour>
+    <component base="uhorn"/>
+    <component base="hookabovecomb" xOffset="1132"/>
+  </outline>
+</glyph>

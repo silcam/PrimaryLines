@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uring" format="1">
+  <advance width="1185"/>
+  <unicode hex="016F"/>
+  <outline>
+    <contour>
+      <point x="1185" y="1000" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="1192" y="0" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="589" y="0" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="589" y="-100" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="591" y="1635" type="move" name="Anchor-5"/>
+    </contour>
+    <component base="u"/>
+    <component base="ring" xOffset="376"/>
+  </outline>
+</glyph>

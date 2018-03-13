@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onedotenleader" format="1">
+  <advance width="570"/>
+  <unicode hex="2024"/>
+  <outline>
+    <contour>
+      <point x="150" y="110" type="qcurve" smooth="yes"/>
+      <point x="150" y="138"/>
+      <point x="171" y="187"/>
+      <point x="208" y="224"/>
+      <point x="257" y="245"/>
+      <point x="285" y="245" type="qcurve" smooth="yes"/>
+      <point x="313" y="245"/>
+      <point x="362" y="224"/>
+      <point x="399" y="187"/>
+      <point x="420" y="138"/>
+      <point x="420" y="110" type="qcurve" smooth="yes"/>
+      <point x="420" y="82"/>
+      <point x="399" y="33"/>
+      <point x="362" y="-4"/>
+      <point x="313" y="-25"/>
+      <point x="285" y="-25" type="qcurve" smooth="yes"/>
+      <point x="257" y="-25"/>
+      <point x="208" y="-4"/>
+      <point x="171" y="33"/>
+      <point x="150" y="82"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute.TailI" format="1">
+  <advance width="645"/>
+  <outline>
+    <contour>
+      <point x="540" y="1000" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="700" y="0" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="395" y="0" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="400" y="-100" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="265" y="1635" type="move" name="Anchor-5"/>
+    </contour>
+    <component base="dotlessi.TailI"/>
+    <component base="acutecomb" xOffset="835"/>
+  </outline>
+</glyph>

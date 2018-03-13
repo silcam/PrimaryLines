@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01DC.sc" format="1">
+  <advance width="1345"/>
+  <outline>
+    <contour>
+      <point x="1298" y="1016" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="861" y="8" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="660" y="8" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="660" y="-76" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="660" y="2233" type="move" name="Anchor-5"/>
+    </contour>
+    <component base="u.sc"/>
+    <component base="uni0308" xOffset="1230" yOffset="193"/>
+    <component base="gravecomb" xOffset="1210" yOffset="598"/>
+  </outline>
+</glyph>

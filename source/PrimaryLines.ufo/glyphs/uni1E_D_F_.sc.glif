@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EDF.sc" format="1">
+  <advance width="1418"/>
+  <outline>
+    <contour>
+      <point x="1418" y="1077" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="670" y="-76" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="670" y="-76" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="670" y="-76" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="670" y="1828" type="move" name="Anchor-5"/>
+    </contour>
+    <component base="ohorn.sc"/>
+    <component base="hookabovecomb" xOffset="1213" yOffset="193"/>
+  </outline>
+</glyph>

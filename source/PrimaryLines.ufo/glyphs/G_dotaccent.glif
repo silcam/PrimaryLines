@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gdotaccent" format="1">
+  <advance width="1420"/>
+  <unicode hex="0120"/>
+  <outline>
+    <contour>
+      <point x="1420" y="1077" type="move" name="Anchor-4"/>
+    </contour>
+    <contour>
+      <point x="745" y="-100" type="move" name="Anchor-3"/>
+    </contour>
+    <contour>
+      <point x="745" y="0" type="move" name="Anchor-2"/>
+    </contour>
+    <contour>
+      <point x="745" y="-100" type="move" name="Anchor-1"/>
+    </contour>
+    <contour>
+      <point x="745" y="1935" type="move" name="Anchor-0"/>
+    </contour>
+    <component base="G"/>
+    <component base="dotaccent" xOffset="610" yOffset="430"/>
+  </outline>
+</glyph>

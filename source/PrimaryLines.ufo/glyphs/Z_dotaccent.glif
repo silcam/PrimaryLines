@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zdotaccent" format="1">
+  <advance width="1230"/>
+  <unicode hex="017B"/>
+  <outline>
+    <contour>
+      <point x="1230" y="1077" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="605" y="-100" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="605" y="-100" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="605" y="-100" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="605" y="1935" type="move" name="Anchor-5"/>
+    </contour>
+    <component base="Z"/>
+    <component base="dotaccent" xOffset="470" yOffset="430"/>
+  </outline>
+</glyph>

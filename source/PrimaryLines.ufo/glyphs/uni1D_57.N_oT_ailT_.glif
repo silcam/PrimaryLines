@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1D57.NoTailT" format="1">
+  <advance width="556"/>
+  <outline>
+    <contour>
+      <point x="556" y="1077" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="280" y="615" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="280" y="615" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="280" y="615" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="280" y="1605" type="move" name="Anchor-5"/>
+    </contour>
+    <contour>
+      <point x="26" y="1343" type="line"/>
+      <point x="211" y="1343" type="line"/>
+      <point x="211" y="1574" type="line"/>
+      <point x="341" y="1574" type="line"/>
+      <point x="341" y="1343" type="line"/>
+      <point x="526" y="1343" type="line"/>
+      <point x="526" y="1249" type="line"/>
+      <point x="341" y="1249" type="line"/>
+      <point x="341" y="680" type="line"/>
+      <point x="211" y="680" type="line"/>
+      <point x="211" y="1249" type="line"/>
+      <point x="26" y="1249" type="line"/>
+    </contour>
+  </outline>
+</glyph>

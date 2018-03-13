@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EBF.VN" format="1">
+  <advance width="1095"/>
+  <outline>
+    <component base="e"/>
+    <component base="uni0302_acutecomb.VN" xOffset="1139"/>
+  </outline>
+</glyph>

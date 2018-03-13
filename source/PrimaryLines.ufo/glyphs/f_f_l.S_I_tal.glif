@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_f_l.SItal" format="1">
+  <advance width="2065"/>
+  <outline>
+    <component base="f.SItal"/>
+    <component base="f.SItal" xOffset="750"/>
+    <component base="l.SItal" xOffset="1500"/>
+  </outline>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni02E7.2" format="1">
+  <advance width="639"/>
+  <outline>
+    <contour>
+      <point x="639" y="411" type="move" name="Cursive-12"/>
+    </contour>
+    <contour>
+      <point x="160" y="787" type="move" name="_Cursive-12"/>
+    </contour>
+    <contour>
+      <point x="123" y="740" type="line" smooth="yes"/>
+      <point x="103" y="755"/>
+      <point x="98" y="804"/>
+      <point x="113" y="824" type="qcurve" smooth="yes"/>
+      <point x="128" y="844"/>
+      <point x="177" y="849"/>
+      <point x="197" y="834" type="qcurve" smooth="yes"/>
+      <point x="675" y="458" type="line" smooth="yes"/>
+      <point x="695" y="443"/>
+      <point x="700" y="394"/>
+      <point x="685" y="374" type="qcurve" smooth="yes"/>
+      <point x="670" y="354"/>
+      <point x="621" y="349"/>
+      <point x="601" y="364" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

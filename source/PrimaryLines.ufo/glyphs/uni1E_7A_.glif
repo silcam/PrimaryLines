@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E7A" format="1">
+  <advance width="1440"/>
+  <unicode hex="1E7A"/>
+  <outline>
+    <contour>
+      <point x="1400" y="1200" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="1026" y="0" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="707" y="0" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="707" y="-100" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="707" y="2285" type="move" name="Anchor-5"/>
+    </contour>
+    <component base="U"/>
+    <component base="uni0304" xOffset="1277" yOffset="430"/>
+    <component base="uni0308" xOffset="1277" yOffset="780"/>
+  </outline>
+</glyph>

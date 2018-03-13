@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uogonek" format="1">
+  <advance width="1185"/>
+  <unicode hex="0173"/>
+  <outline>
+    <contour>
+      <point x="1185" y="1077" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="590" y="-500" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="590" y="-500" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="590" y="-500" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="589" y="1100" type="move" name="Anchor-5"/>
+    </contour>
+    <component base="u"/>
+    <component base="uni0328" xOffset="1489"/>
+  </outline>
+</glyph>

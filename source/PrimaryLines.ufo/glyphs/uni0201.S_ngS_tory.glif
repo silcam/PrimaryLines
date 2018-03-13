@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0201.SngStory" format="1">
+  <advance width="1150"/>
+  <unicode hex="0201"/>
+  <outline>
+    <contour>
+      <point x="1150" y="1000" type="move" name="Anchor-4"/>
+    </contour>
+    <contour>
+      <point x="1160" y="0" type="move" name="Anchor-3"/>
+    </contour>
+    <contour>
+      <point x="548" y="0" type="move" name="Anchor-2"/>
+    </contour>
+    <contour>
+      <point x="595" y="-100" type="move" name="Anchor-1"/>
+    </contour>
+    <contour>
+      <point x="595" y="1635" type="move" name="Anchor-0"/>
+    </contour>
+    <component base="uni0251"/>
+    <component base="uni030F" xOffset="1167"/>
+  </outline>
+</glyph>

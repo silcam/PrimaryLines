@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni00AD.ShowInv" format="1">
+  <advance width="2400"/>
+  <outline>
+    <component base="compBoxDotted"/>
+    <component base="compLtnCapS" xOffset="406" yOffset="634"/>
+    <component base="compLtnCapH" xOffset="938" yOffset="634"/>
+    <component base="compLtnCapY" xOffset="1504" yOffset="634"/>
+  </outline>
+</glyph>

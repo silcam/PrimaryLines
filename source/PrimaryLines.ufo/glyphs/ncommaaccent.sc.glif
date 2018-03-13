@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ncommaaccent.sc" format="1">
+  <advance width="1400"/>
+  <outline>
+    <contour>
+      <point x="1400" y="1077" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="688" y="-476" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="1142" y="8" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="688" y="-476" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="688" y="1293" type="move" name="Anchor-5"/>
+    </contour>
+    <component base="n.sc"/>
+    <component base="uni0326" xOffset="1255" yOffset="24"/>
+  </outline>
+</glyph>

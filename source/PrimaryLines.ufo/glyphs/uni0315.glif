@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0315" format="1">
+  <advance width="250"/>
+  <unicode hex="0315"/>
+  <outline>
+    <contour>
+      <point x="0" y="1000" type="move" name="_Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="0" y="1000" type="move" name="_Anchor-4"/>
+    </contour>
+    <contour>
+      <point x="250" y="1600" type="line"/>
+      <point x="120" y="1170" type="line"/>
+      <point x="0" y="1170" type="line"/>
+      <point x="65" y="1600" type="line"/>
+    </contour>
+  </outline>
+</glyph>

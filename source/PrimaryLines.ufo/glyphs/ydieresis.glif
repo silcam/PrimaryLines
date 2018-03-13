@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis" format="1">
+  <advance width="1060"/>
+  <unicode hex="00FF"/>
+  <outline>
+    <contour>
+      <point x="1120" y="1000" type="move" name="Anchor-4"/>
+    </contour>
+    <contour>
+      <point x="795" y="-100" type="move" name="Anchor-3"/>
+    </contour>
+    <contour>
+      <point x="795" y="-100" type="move" name="Anchor-2"/>
+    </contour>
+    <contour>
+      <point x="795" y="-100" type="move" name="Anchor-1"/>
+    </contour>
+    <contour>
+      <point x="535" y="1505" type="move" name="Anchor-0"/>
+    </contour>
+    <component base="y"/>
+    <component base="uni0308" xOffset="1105"/>
+  </outline>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period" format="1">
+  <advance width="640"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="185" y="110" type="qcurve" smooth="yes"/>
+      <point x="185" y="138"/>
+      <point x="206" y="187"/>
+      <point x="243" y="224"/>
+      <point x="292" y="245"/>
+      <point x="320" y="245" type="qcurve" smooth="yes"/>
+      <point x="348" y="245"/>
+      <point x="397" y="224"/>
+      <point x="434" y="187"/>
+      <point x="455" y="138"/>
+      <point x="455" y="110" type="qcurve" smooth="yes"/>
+      <point x="455" y="82"/>
+      <point x="434" y="33"/>
+      <point x="397" y="-4"/>
+      <point x="348" y="-25"/>
+      <point x="320" y="-25" type="qcurve" smooth="yes"/>
+      <point x="292" y="-25"/>
+      <point x="243" y="-4"/>
+      <point x="206" y="33"/>
+      <point x="185" y="82"/>
+    </contour>
+    <contour>
+      <point x="0" y="949" type="line"/>
+      <point x="640" y="949" type="line"/>
+      <point x="640" y="933" type="line"/>
+      <point x="0" y="933" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="1470" type="line"/>
+      <point x="640" y="1470" type="line"/>
+      <point x="640" y="1441" type="line"/>
+      <point x="0" y="1441" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="19" type="line"/>
+      <point x="640" y="19" type="line"/>
+      <point x="640" y="-10" type="line"/>
+      <point x="0" y="-10" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-454" type="line"/>
+      <point x="640" y="-454" type="line"/>
+      <point x="640" y="-483" type="line"/>
+      <point x="0" y="-483" type="line"/>
+    </contour>
+  </outline>
+</glyph>

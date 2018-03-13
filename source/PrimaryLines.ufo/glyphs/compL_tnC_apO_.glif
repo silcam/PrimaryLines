@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="compLtnCapO" format="1">
+  <advance width="570"/>
+  <outline>
+    <contour>
+      <point x="450" y="277" type="qcurve" smooth="yes"/>
+      <point x="450" y="319"/>
+      <point x="435" y="392"/>
+      <point x="398" y="447"/>
+      <point x="334" y="478"/>
+      <point x="286" y="478" type="qcurve" smooth="yes"/>
+      <point x="238" y="478"/>
+      <point x="174" y="447"/>
+      <point x="136" y="392"/>
+      <point x="120" y="319"/>
+      <point x="120" y="277" type="qcurve" smooth="yes"/>
+      <point x="120" y="235"/>
+      <point x="136" y="155"/>
+      <point x="174" y="92"/>
+      <point x="238" y="54"/>
+      <point x="286" y="54" type="qcurve" smooth="yes"/>
+      <point x="334" y="54"/>
+      <point x="398" y="92"/>
+      <point x="435" y="155"/>
+      <point x="450" y="235"/>
+    </contour>
+    <contour>
+      <point x="526" y="277" type="qcurve" smooth="yes"/>
+      <point x="526" y="220"/>
+      <point x="497" y="117"/>
+      <point x="438" y="37"/>
+      <point x="347" y="-10"/>
+      <point x="286" y="-10" type="qcurve" smooth="yes"/>
+      <point x="224" y="-10"/>
+      <point x="133" y="37"/>
+      <point x="73" y="117"/>
+      <point x="44" y="220"/>
+      <point x="44" y="277" type="qcurve" smooth="yes"/>
+      <point x="44" y="334"/>
+      <point x="73" y="431"/>
+      <point x="133" y="502"/>
+      <point x="224" y="542"/>
+      <point x="286" y="542" type="qcurve" smooth="yes"/>
+      <point x="347" y="542"/>
+      <point x="438" y="502"/>
+      <point x="497" y="431"/>
+      <point x="526" y="334"/>
+    </contour>
+  </outline>
+</glyph>

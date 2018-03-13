@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edieresis.sc" format="1">
+  <advance width="1087"/>
+  <outline>
+    <contour>
+      <point x="1077" y="1016" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="854" y="8" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="562" y="8" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="562" y="-76" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="562" y="1698" type="move" name="Anchor-5"/>
+    </contour>
+    <component base="e.sc"/>
+    <component base="uni0308" xOffset="1132" yOffset="193"/>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E4D.sc" format="1">
+  <advance width="1363"/>
+  <outline>
+    <contour>
+      <point x="1353" y="1016" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="890" y="8" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="670" y="8" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="670" y="-76" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="670" y="2203" type="move" name="Anchor-5"/>
+    </contour>
+    <component base="o.sc"/>
+    <component base="tilde" xOffset="320" yOffset="193"/>
+    <component base="acutecomb" xOffset="1240" yOffset="568"/>
+  </outline>
+</glyph>

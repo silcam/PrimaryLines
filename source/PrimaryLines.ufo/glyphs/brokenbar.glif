@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="1">
+  <advance width="1024"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="0" y="949" type="line"/>
+      <point x="1040" y="949" type="line"/>
+      <point x="1040" y="933" type="line"/>
+      <point x="0" y="933" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="1470" type="line"/>
+      <point x="1040" y="1470" type="line"/>
+      <point x="1040" y="1441" type="line"/>
+      <point x="0" y="1441" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="19" type="line"/>
+      <point x="1040" y="19" type="line"/>
+      <point x="1040" y="-10" type="line"/>
+      <point x="0" y="-10" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="-454" type="line"/>
+      <point x="1040" y="-454" type="line"/>
+      <point x="1040" y="-483" type="line"/>
+      <point x="0" y="-483" type="line"/>
+    </contour>
+    <contour>
+      <point x="440" y="775" type="line"/>
+      <point x="440" y="1600" type="line"/>
+      <point x="590" y="1600" type="line"/>
+      <point x="590" y="775" type="line"/>
+    </contour>
+    <contour>
+      <point x="590" y="445" type="line"/>
+      <point x="590" y="-390" type="line"/>
+      <point x="440" y="-390" type="line"/>
+      <point x="440" y="445" type="line"/>
+    </contour>
+  </outline>
+</glyph>

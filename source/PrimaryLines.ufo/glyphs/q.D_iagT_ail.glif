@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q.DiagTail" format="1">
+  <advance width="1130"/>
+  <outline>
+    <contour>
+      <point x="1130" y="1000" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="555" y="-500" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="555" y="-500" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="555" y="-500" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="555" y="1100" type="move" name="Anchor-5"/>
+    </contour>
+    <component base="q"/>
+  </outline>
+</glyph>

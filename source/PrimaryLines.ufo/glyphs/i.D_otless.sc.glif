@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.Dotless.sc" format="1">
+  <advance width="917"/>
+  <outline>
+    <contour>
+      <point x="907" y="1016" type="move" name="Anchor-9"/>
+    </contour>
+    <contour>
+      <point x="629" y="8" type="move" name="Anchor-8"/>
+    </contour>
+    <contour>
+      <point x="449" y="8" type="move" name="Anchor-7"/>
+    </contour>
+    <contour>
+      <point x="449" y="-76" type="move" name="Anchor-6"/>
+    </contour>
+    <contour>
+      <point x="449" y="1293" type="move" name="Anchor-5"/>
+    </contour>
+    <component base="i.sc"/>
+  </outline>
+</glyph>
