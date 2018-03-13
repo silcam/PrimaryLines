@@ -3,3 +3,7 @@
 *.db
 *.pdb
 *.tmp
+PrimaryLines-*/
+PrimaryLines-*
+*.woff
+release/PrimaryLines-1.000.zip
