@@ -1,9 +1,8 @@
-
-
 *.db
 *.pdb
 *.tmp
-PrimaryLines-*/
-PrimaryLines-*
-*.woff
-release/PrimaryLines-1.000.zip
+source/*.woff
+source/*.ttf
+release/
+!release/PrimaryLines Current.zip
+
